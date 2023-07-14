@@ -7,10 +7,16 @@ export default function Home() {
             <title>Home</title>
         </Head>
         <section>
-            <h1>This is the Home Page</h1>
+            <navbar>
             <Link href="/">Home</Link>
             <Link href="/about">About Us</Link>
             <Link href="/blog">Blog</Link>
+            </navbar>
+            <h1>The Student-Industry Partnership</h1>
+            <p>
+                We are dedicated to connecting promising students to ambitious industry projects
+                to facilitate the transition between academia and real-world applications.
+            </p>
         </section>
         </>
         
