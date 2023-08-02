@@ -12,6 +12,12 @@ export default function About() {
                 <Link href="/about">About Us</Link>
                 <Link href="/blog">Blog</Link>
             </section>
+            <div>
+                <div>
+                    <h1>Sam Oberly</h1>
+                    <h2>President and Founder</h2>
+                </div>
+            </div>
         </Head>
         </>
     )

@@ -32,3 +32,26 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+TO DO:
+Make Contact Form
+Make Card for Each Person
+Integrate Blog
+Finalize Home Page
+Style Nav bar
+Style other pages
+Specifically:
+1. make a card component
+    In this component, except props of name, picture, title, 
+2. Have each card link to a page
+     Each page has the persons short biography, contact info, social media accouts
+3. Link the contentful API
+    Style blog posts 
+    Create dynamic links for the blog posts
+4. Make Navbar component
+5. Make Contact form component
+6. Finish styling
+7. buy URL
+8. Lauch
+
